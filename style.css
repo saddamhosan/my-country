@@ -1,0 +1,70 @@
+.first-sec {
+  /* width: 80%;
+  margin: auto; */
+  display: flex;
+  justify-content: space-around;
+  height: 430px;
+}
+.about-bd {
+  width: 50%;
+  border-radius: 10px;
+  padding: 0 10px 20px 20px;
+  text-align: justify;
+  margin: auto 0;
+}
+p {
+  font-size: 20px;
+}
+.about-bd h1 {
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.map {
+  width: 30%;
+}
+.map img {
+  width: 100%;
+}
+.detail {
+  text-decoration: none;
+  background-image: linear-gradient(45deg, green, red, green);
+  padding: 10px 40px;
+  border-radius: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: antiquewhite;
+  margin-left: 20px;
+}
+.division {
+  width: 30%;
+  box-shadow: 5px 5px 10px grey;
+  height: 510px;
+}
+.division img {
+  width: 100%;
+  height: 250px;
+}
+.all-division {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px 0;
+}
+.division h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+.division p {
+  text-align: justify;
+  padding: 10px 10px 20px;
+}
+.had-name {
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: green;
+  color: red;
+}
+footer {
+  text-align: center;
+}
